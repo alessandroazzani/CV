@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.9)  19 OCT 2023 16:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.9)  27 OCT 2023 17:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -401,24 +401,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./CV_selfmade.aux)
 \openout1 = `CV_selfmade.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
-LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -476,7 +476,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 117.
+Package hyperref Info: Link coloring OFF on input line 120.
  (./CV_selfmade.out) (./CV_selfmade.out)
 \@outlinefile=\write4
 \openout4 = `CV_selfmade.out'.
@@ -484,33 +484,33 @@ Package hyperref Info: Link coloring OFF on input line 117.
 <photo_cv.jpg, id=7, 379.4175pt x 379.4175pt>
 File: photo_cv.jpg Graphic file (type jpg)
 <use photo_cv.jpg>
-Package pdftex.def Info: photo_cv.jpg  used on input line 122.
+Package pdftex.def Info: photo_cv.jpg  used on input line 125.
 (pdftex.def)             Requested size: 121.89024pt x 121.89081pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 124.
+(Font)              <10.95> on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 124.
+(Font)              <8> on input line 127.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 124.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 134.
+(Font)              <6> on input line 127.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 137.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 157.
+LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 160.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
 File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
 )
-Overfull \hbox (0.1137pt too wide) in paragraph at lines 163--173
+Overfull \hbox (0.1137pt too wide) in paragraph at lines 166--176
 [][] $[]$    
  []
 
 
-Overfull \hbox (0.1137pt too wide) in paragraph at lines 191--193
+Overfull \hbox (0.1137pt too wide) in paragraph at lines 194--196
 [][] $[]$    
  []
 
 
-Overfull \hbox (0.1137pt too wide) in paragraph at lines 198--200
+Overfull \hbox (0.1137pt too wide) in paragraph at lines 201--203
 [][] $[]$    
  []
 
@@ -521,10 +521,10 @@ Package rerunfilecheck Info: File `CV_selfmade.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 22397 strings out of 476025
- 420397 string characters out of 5790018
+ 22400 strings out of 476025
+ 420441 string characters out of 5790018
  1872388 words of memory out of 5000000
- 42510 multiletter control sequences out of 15000+600000
+ 42513 multiletter control sequences out of 15000+600000
  519201 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,10n,89p,434b,1009s stack positions out of 10000i,1000n,20000p,200000b,200000s
